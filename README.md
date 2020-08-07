@@ -25,3 +25,4 @@ CostPerItem - Price per each unit of the product
 
 Country - Country from which the purchase is made.
 
+Size of data (1.08 Million x 8)
