@@ -29,7 +29,7 @@ Size of data (1.08 Million x 8)
 
 
 # Final output
-![Customers_RFM](https://user-images.githubusercontent.com/53363478/119251021-be41d600-bbc1-11eb-868e-df1a4a03f254.jpg)
+![newplot](https://user-images.githubusercontent.com/53363478/119251395-f518eb80-bbc3-11eb-8218-dfe3cbd7ce1c.png)
 
 After Preprocessing and Clustering , all data was tranformed into these 3 columns/dimensions. 
 
