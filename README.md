@@ -39,3 +39,9 @@ Frequency - How frequently the customer has made the purchased (Higher the bette
 
 Monetary - How much was the total amount of all transactions (Higher the better)
 
+# Observations 
+1. Customers in Yellow cluster are core customers since they have low recency , high frequency and high monetary values.
+
+2. Then comes customers in Purple cluster even if they have high recency value but their frequency and monetary values are high.
+
+3. Then comes customers in Orange cluster even almost same recency value as that of Purpple and  their frequency and monetary values are bit less than Purple customers.
