@@ -30,3 +30,10 @@ Size of data (1.08 Million x 8)
 
 # Final output
 ![Customers_RFM](https://user-images.githubusercontent.com/53363478/119251021-be41d600-bbc1-11eb-868e-df1a4a03f254.jpg)
+
+After Preprocessing and Clustering , all data was tranformed into these 3 columns/dimensions. 
+
+Recency - How recently the customer has made the purchased (Lower the better)
+Frequency - How frequently the customer has made the purchased (Higher the better)
+Monetary - How much was the total amount of all transactions (Higher the better)
+
