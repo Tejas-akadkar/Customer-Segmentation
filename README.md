@@ -34,6 +34,8 @@ Size of data (1.08 Million x 8)
 After Preprocessing and Clustering , all data was tranformed into these 3 columns/dimensions. 
 
 Recency - How recently the customer has made the purchased (Lower the better)
+
 Frequency - How frequently the customer has made the purchased (Higher the better)
+
 Monetary - How much was the total amount of all transactions (Higher the better)
 
